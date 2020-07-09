@@ -50,9 +50,7 @@ a.link {
   .hide {
     display: none;
   }
-  .col-sm-12 {
-    width: 100% !important;
-  }
+
   .center-v {
     margin: 1rem 0;
   }
