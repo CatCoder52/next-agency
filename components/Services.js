@@ -21,7 +21,7 @@ const Services = () => {
         <p className='lead text-center text-muted pt-2 mb-5'>
           Join thousands of satisfied customers using our services globally.
         </p>
-        <div className='row'>
+        <div className='row center'>
           <ServiceItem
             title='Books & Journals'
             img='/digitisation.png'

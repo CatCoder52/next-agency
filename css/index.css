@@ -59,6 +59,9 @@ a.link {
   .center-v {
     margin: 1rem 0;
   }
+  li.ml-5.link {
+    margin-left: 1rem;
+  }
 }
 
 .link {
